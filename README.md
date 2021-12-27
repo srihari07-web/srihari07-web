@@ -1,22 +1,22 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srihari</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Website for Alumni Affairs](https://covid-19-tracker-e4bda.web.app/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio]**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **edm19b022@iiitdm.ac.in**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I'm constantly enthusiastic and willing to pick up new abilities. I approach problem solving in a creative manner, and I am capable of handling multiple tasks on a regular basis! Frontend web design is something that I'm particularly interested in.😊.**
 
 ## 🚀 Languages and Tools:
 
