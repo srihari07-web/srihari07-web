@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Website for Alumni Affairs](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Website for Alumni Affairs]**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
