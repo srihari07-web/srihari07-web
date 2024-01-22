@@ -1,11 +1,9 @@
 
+<img alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 
-<img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
-<br>
 
 
 ## 👋 Hello, I'm Srihari!
-
 Welcome to my GitHub repository. I'm a passionate Front-End Developer based in India. Here's a bit about me:
 
 - 🔭 I’m currently working at **AI4BHARAT**
