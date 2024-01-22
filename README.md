@@ -6,7 +6,7 @@
 
 Welcome to my GitHub repository. I'm a passionate Front-End Developer based in India. Here's a bit about me:
 
-- 🔭 I’m currently working at **AI4BHARAT OPEN SOURCE IIT MADRAS**
+- 🔭 I’m currently working at **AI4BHARAT**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me: **edm19b022@iiitdm.ac.in**
