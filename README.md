@@ -9,7 +9,6 @@ Welcome to my GitHub repository. I'm a passionate Front-End Developer based in I
 - 🔭 I’m currently working at **AI4BHARAT OPEN SOURCE IIT MADRAS**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 Explore my projects at **[My Portfolio]**
 - 📫 How to reach me: **edm19b022@iiitdm.ac.in**
 - ⚡ Fun fact: **I'm constantly enthusiastic and willing to pick up new abilities. I approach problem-solving creatively and can handle multiple tasks regularly! Frontend web design is something that I'm particularly interested in. 😊.**
 
