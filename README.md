@@ -39,7 +39,7 @@ Welcome to my GitHub repository. I'm a passionate Front-End Developer based in I
 
 <p align="left">
     <a href="https://www.linkedin.com/in/srihari-s-453ba8106/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://twitter.com/SRIHARI58816493"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+    <a href="https://twitter.com/srihari_118"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
 <a href="https://github.com/Srihari07-web?tab=followers">
