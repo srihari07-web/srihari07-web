@@ -1,16 +1,14 @@
-
 <img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 <br>
 
-
 ## 👋 Hello, I'm Srihari!
-Welcome to my GitHub repository. I'm a passionate Front-End Developer based in India. Here's a bit about me:
+Welcome to my GitHub repository. I am a dedicated Front-End Developer based in India. Here's a brief overview:
 
-- 🔭 I’m currently working at **AI4BHARAT**
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me: **edm19b022@iiitdm.ac.in**
-- ⚡ Fun fact: **I'm constantly enthusiastic and willing to pick up new abilities. I approach problem-solving creatively and can handle multiple tasks regularly! Frontend web design is something that I'm particularly interested in. 😊.**
+- 🔭 Currently employed at **AI4BHARAT**
+- 🌱 Actively enhancing my skills in **Data Structures and Algorithms**
+- 👯 Open to collaboration on **OpenSource Projects**
+- 📫 Reach me at: **edm19b022@iiitdm.ac.in**
+- ⚡ Fun fact: I am consistently enthusiastic and committed to acquiring new skills. I approach problem-solving with creativity and can manage multiple tasks proficiently. Frontend web design is an area that particularly captivates me. 😊.
 
 ## 🚀 Languages and Tools:
 
@@ -32,8 +30,6 @@ Welcome to my GitHub repository. I'm a passionate Front-End Developer based in I
         <img alt="Srihari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=srihari07-web&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </div>
-
-*Note: Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.*
 
 ## Connect with me:
 
