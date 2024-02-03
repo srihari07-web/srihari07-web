@@ -4,8 +4,8 @@
 
 ## Greetings, I'm Srihari S! 👋
 
-<h5 align="left">I'm an enthusiastic Frontend Developer from India with a passion for crafting captivating UX/UI experiences. I specialize in HTML, CSS, JavaScript, and React, creating visually appealing and user-friendly web applications.
-</h3>
+<p align="left">I'm an enthusiastic Frontend Developer from India with a passion for crafting captivating UX/UI experiences. I specialize in HTML, CSS, JavaScript, and React, creating visually appealing and user-friendly web applications.
+</p>
 
 - 🔭 Currently immersed in the development of the [AI4Bharat Official Website](https://ai4bharat.iitm.ac.in/).
 - 📚 LeetCode Solutions Repository (coming soon)
