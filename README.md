@@ -2,7 +2,7 @@
 
 <br>
 
-## Greetings, I'm Srihari S! 👋
+## Hi, I'm Srihari S! 👋
 
 ## About Me
 
