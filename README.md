@@ -18,7 +18,6 @@ Enthusiastic Frontend Developer hailing from India, with a keen focus on designi
 
 I specialize in Frontend Development, with a particular focus on designing exceptional UX/UI. My proficiency extends to HTML, CSS, and JavaScript, and I leverage frameworks like React to create visually appealing and user-friendly web applications.
 
-## Technologies I Work With
 
 ## Technologies I Work With
 
