@@ -4,7 +4,7 @@
 
 ## Greetings, I'm S Srihari! 👋
 
-<h3 align="center">Enthusiastic Frontend Developer hailing from India, with a keen focus on designing captivating UX/UI.</h3>
+<h3 align="left">Enthusiastic Frontend Developer hailing from India, with a keen focus on designing captivating UX/UI.</h3>
 
 - 🔭 Currently immersed in the development of the [AI4Bharat Official Website](https://ai4bharat.iitm.ac.in/).
 - 📚 Actively engaged in tackling and explaining all LeetCode problems, soon to be available in my GitHub repository.
