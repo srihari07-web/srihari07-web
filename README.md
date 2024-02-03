@@ -1,19 +1,24 @@
 # S Srihari - Frontend Developer
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2361e682f29dd5165f3a6ee20019ec078041b1577d3280af7c86e53178cdf5da/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2361e682f29dd5165f3a6ee20019ec078041b1577d3280af7c86e53178cdf5da/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656n742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966">
 
 <br>
 
-Greetings, I'm S Srihari! 👋
-Enthusiastic Frontend Developer hailing from India.
+## Greetings, I'm S Srihari! 👋
 
-🔭 Currently immersed in the development of the AI4Bharat Official Website.
-📚 Actively engaged in tackling and explaining all LeetCode problems, soon to be available in my GitHub repository.
-📘 Crafting a comprehensive book on Data Structures and Algorithms.
-🤝 Seeking assistance for AI4Bharat Indic Input Tools.
-📫 Reach me at sriharikrishna07@gmail.com.
+Enthusiastic Frontend Developer hailing from India, with a keen focus on designing captivating UX/UI.
 
-I'm a skilled frontend developer with a strong foundation in HTML, CSS, and JavaScript. My expertise extends to frameworks such as React and tools like Node.js and Express. I have a keen interest in building efficient and user-friendly web applications.
+- 🔭 Currently immersed in the development of the [AI4Bharat Official Website](https://ai4bharat.iitm.ac.in/).
+- 📚 Actively engaged in tackling and explaining all LeetCode problems, soon to be available in my GitHub repository.
+- 📘 Crafting a comprehensive book on Data Structures and Algorithms.
+- 🤝 Seeking assistance for [AI4Bharat Indic Input Tools](https://chromewebstore.google.com/detail/input-tools-by-ai4bharat/lofelgaafdbdikholfnckfgigjklghik).
+- 📫 Reach me at [sriharikrishna07@gmail.com](mailto:sriharikrishna07@gmail.com).
+
+## About Me
+
+I specialize in Frontend Development, with a particular focus on designing exceptional UX/UI. My proficiency extends to HTML, CSS, and JavaScript, and I leverage frameworks like React to create visually appealing and user-friendly web applications.
+
+## Technologies I Work With
 
 ## Technologies I Work With
 
