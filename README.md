@@ -4,19 +4,15 @@
 
 ## Greetings, I'm Srihari S! 👋
 
-<p align="left">I'm an enthusiastic Frontend Developer from India with a passion for crafting captivating UX/UI experiences. I specialize in HTML, CSS, JavaScript, and React, creating visually appealing and user-friendly web applications.
-</p>
+## About Me
+
+I specialize in Frontend Development, with a particular focus on designing exceptional UX/UI. My proficiency extends to HTML, CSS, and JavaScript, and I leverage frameworks like React to create visually appealing and user-friendly web applications.
 
 - 🔭 Currently immersed in the development of the [AI4Bharat Official Website](https://ai4bharat.iitm.ac.in/).
 - 📚 LeetCode Solutions Repository (coming soon)
 - 📘 Crafting a comprehensive book on Data Structures and Algorithms.
 - 🤝 Seeking assistance for [AI4Bharat Indic Input Tools](https://chromewebstore.google.com/detail/input-tools-by-ai4bharat/lofelgaafdbdikholfnckfgigjklghik).
 - 📫 Reach me at [sriharikrishna07@gmail.com](mailto:sriharikrishna07@gmail.com).
-
-
-## About Me
-
-I specialize in Frontend Development, with a particular focus on designing exceptional UX/UI. My proficiency extends to HTML, CSS, and JavaScript, and I leverage frameworks like React to create visually appealing and user-friendly web applications.
 
 
 ## Technologies I Work With
