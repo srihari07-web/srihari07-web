@@ -4,16 +4,14 @@
 
 <br>
 
-## Hi there, I'm S Srihari 👋
+Greetings, I'm S Srihari! 👋
+Enthusiastic Frontend Developer hailing from India.
 
-Passionate Frontend Developer from India.
-
-- 🔭 I’m currently working on [AI4Bharat Official Website](https://ai4bharat.iitm.ac.in/)
-- 🌱 I’m currently learning **Data Structures & Algorithms**
-- 🤝 I’m looking for help with [AI4Bharat Indic Input Tools](https://chromewebstore.google.com/detail/input-tools-by-ai4bharat/lofelgaafdbdikholfnckfgigjklghik)
-- 📫 How to reach me: [sriharikrishna07@gmail.com](mailto:sriharikrishna07@gmail.com)
-
-## About Me
+🔭 Currently immersed in the development of the AI4Bharat Official Website.
+📚 Actively engaged in tackling and explaining all LeetCode problems, soon to be available in my GitHub repository.
+📘 Crafting a comprehensive book on Data Structures and Algorithms.
+🤝 Seeking assistance for AI4Bharat Indic Input Tools.
+📫 Reach me at sriharikrishna07@gmail.com.
 
 I'm a skilled frontend developer with a strong foundation in HTML, CSS, and JavaScript. My expertise extends to frameworks such as React and tools like Node.js and Express. I have a keen interest in building efficient and user-friendly web applications.
 
