@@ -1,28 +1,85 @@
-<h1 align="center">Hi there, I'm S Srihari 👋</h1>
-<h3 align="center">Passionate Frontend Developer from India</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>S Srihari - Frontend Developer</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+    }
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2361e682f29dd5165f3a6ee20019ec078041b1577d3280af7c86e53178cdf5da/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966">
+    header {
+      background-color: #007bff;
+      color: #fff;
+      text-align: center;
+      padding: 2rem 0;
+    }
 
-<br>
+    section {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1.5rem;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
+    }
 
-- 🔭 I’m currently working on [AI4Bharat Official Website](https://ai4bharat.iitm.ac.in/)
+    img {
+      border-radius: 5px;
+    }
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+    ul {
+      list-style: none;
+      padding: 0;
+    }
 
-- 🤝 I’m looking for help with [AI4Bharat Indic Input Tools](https://chromewebstore.google.com/detail/input-tools-by-ai4bharat/lofelgaafdbdikholfnckfgigjklghik)
+    ul li {
+      margin-bottom: 10px;
+    }
 
-- 📫 How to reach me: **sriharikrishna07@gmail.com**
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Hi there, I'm S Srihari 👋</h1>
+    <h3>Passionate Frontend Developer from India</h3>
+  </header>
+
+  <section>
+    <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2361e682f29dd5165f3a6ee20019ec078041b1577d3280af7c86e53178cdf5da/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966">
+    <br>
+    <ul>
+      <li>🔭 I’m currently working on <a href="https://ai4bharat.iitm.ac.in/" target="_blank">AI4Bharat Official Website</a></li>
+      <li>🌱 I’m currently learning <strong>Data Structures & Algorithms</strong></li>
+      <li>🤝 I’m looking for help with <a href="https://chromewebstore.google.com/detail/input-tools-by-ai4bharat/lofelgaafdbdikholfnckfgigjklghik" target="_blank">AI4Bharat Indic Input Tools</a></li>
+      <li>📫 How to reach me: <a href="mailto:sriharikrishna07@gmail.com">sriharikrishna07@gmail.com</a></li>
+    </ul>
+    <p>
+      I'm a skilled frontend developer with a strong foundation in HTML, CSS, and JavaScript. My expertise extends to frameworks such as React and tools like Node.js and Express. I have a keen interest in building efficient and user-friendly web applications.
+    </p>
+
+    <p>
+      Here are some of the technologies I work with:
+    </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/srihari_118" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srihari_118" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/srihari-s-453ba8106" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srihari-s-453ba8106" height="30" width="40" />
-  </a>
-</p>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
