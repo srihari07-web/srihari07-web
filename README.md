@@ -11,7 +11,7 @@ I specialize in Frontend Development, with a particular focus on designing excep
 - 🔭 Currently immersed in the development of the [AI4Bharat Official Website](https://ai4bharat.iitm.ac.in/).
 - 📚 LeetCode Solutions Repository (coming soon)
 - 📘 Crafting a comprehensive book on Data Structures and Algorithms.
-- 🤝 Seeking assistance for [AI4Bharat Indic Input Tools](https://chromewebstore.google.com/detail/input-tools-by-ai4bharat/lofelgaafdbdikholfnckfgigjklghik).
+- 🤝 Requesting support for the enhancement of [AI4Bharat's Indic Input Tools](https://chromewebstore.google.com/detail/input-tools-by-ai4bharat/lofelgaafdbdikholfnckfgigjklghik), including the addition of new features.
 - 📫 Reach me at [sriharikrishna07@gmail.com](mailto:sriharikrishna07@gmail.com).
 
 
